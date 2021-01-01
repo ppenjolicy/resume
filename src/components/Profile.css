@@ -1,0 +1,24 @@
+.root {
+    background-color: #ffffff;
+    border-radius: 30px;
+    display: inline-block;
+    margin-right: 20px;
+    box-shadow: 3px 3px 10px 1px rgba(0, 0, 255, .2);
+    margin-top: 30px;
+}
+
+.self-pic {
+    margin-top: 10px;
+}
+
+.self-pic > img {
+    width: 100%;
+}
+
+.root > h1 {
+    background-color:  #96e6a1;
+    font-size: 30px;
+    font-family: 'Lobster', cursive;
+    text-align: center;
+}
+
